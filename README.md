@@ -30,6 +30,8 @@
 ### Protein:
 - [BCA Assay](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Protein/BCA_Assay.md)
 
+- [RIPA Lysate Collection](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Protein/RIPA_Lysate_Collection.md)
+
 ----------------------------------------------
 
 

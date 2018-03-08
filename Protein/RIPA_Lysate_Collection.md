@@ -30,4 +30,23 @@ Author: Joshua Harris
 13.	Incubate samples on ice for 5min
 14.	Centrifuge lysates at ~16,000g for 10 minutes at 4 C.
 15.	Pipette the corresponding volumes of supernatant into the pre-chilled labeled tubes.
--------
+
+|Pre-chilled Tube |	Volume to aliquot             |    
+|:-:              |:-:                            |
+|1.7mL Eppendorf	|120uL supernatant + 40uL 4x LDS|
+|Small tube - BCA	|40uL supernatant               |
+
+--------------------------------
+
+## RIPA Lysis Buffer (store 4dC)
+|Reagent	              |Stock        |Mix         |
+| :--:                  | :--:        | :--:       |
+|50mM Tris-HCl pH 7.5   |1M           |500uL       |
+|150mM NaCl             |5M           |300uL       |
+|1% NP-40/Igepal        |100%         |100uL       |
+|0.5% Deoxycholate      |10%          |500uL       |
+|5mM EDTA               |0.5M         |100uL       |
+|0.1% SDS               |10%          |100uL       |
+|Water                  |n/a          |8.4mL       |
+* *Note: Add protease inhibitor immediately before using.*
+* **Protease Inhibitors (25X) (Store -20 C):** Complete [Roche Cat # 1 697 498 (20 tablets)] 
