@@ -29,4 +29,4 @@
 | Bsr GI                | Fnu4II I              |
 
 ### Photo of RE Box
-![](cache/RE_1.png?raw=true)
+![](Cache/RE_1.png?raw=true)
