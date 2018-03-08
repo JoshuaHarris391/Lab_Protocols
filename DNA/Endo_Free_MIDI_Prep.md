@@ -23,7 +23,7 @@ Author: Joshua Harris
 
 1.	Pour the lysate into the barrel of the QIAfilter Cartridge. Incubate at room temperature for 10 min. Do not insert the plunger.  
 
-  1.	Important: This 10 min incubation at room temperature is essential for optimal performance of the QIAfilter Midi Cartridge. Do not agitate the QIAfilter Cartridge during this time.  
+    1.	Important: This 10 min incubation at room temperature is essential for optimal performance of the QIAfilter Midi Cartridge. Do not agitate the QIAfilter Cartridge during this time.  
 
 1.	Remove the cap from the QIAfilter outlet nozzle. Gently insert the plunger into the QIAfilter Midi Cartridge and filter the cell lysate into a convenient tube (50mL Falcon).
 
