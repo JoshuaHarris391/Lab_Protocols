@@ -5,13 +5,13 @@ Author: Joshua Harris
 --------------------------------------------
 ## Protocol:
 1.	Make Protein Lysis Buffer with PI's. Keep on ice.
-  *	40uL of PI per mL of RIPA
+    *	40uL of PI per mL of RIPA
 2.	Chill aliquot of PBS on ice
 3.	Fast Cool centrifuge to 4 C.
 4.	Label tubes and pre-chill on ice
-  *	1.7mL Eppendorf - Lysate Collection
-  *	Small Tube - BCA aliquot
-  *	1.7mL Eppendorf - Supernatant Collection
+    *	1.7mL Eppendorf - Lysate Collection
+    *	Small Tube - BCA aliquot
+    *	1.7mL Eppendorf - Supernatant Collection
 5.	Aspirate off medium.
 6.	Wash cells with 10mL of pre-chilled 1X DPBS.
 7.	Aspirate off DPBS completely, removing as much liquid as possible.
