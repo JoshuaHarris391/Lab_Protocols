@@ -1,7 +1,7 @@
 # Lab Protocols
 
 ### Bacterial:
-- [Culturing Bacteria]()
+- [Culturing Bacteria](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Bacterial/Culturing_Bacteria.md)
 
 ----------------------------------------------
 
@@ -35,13 +35,13 @@
 
 
 ### Solutions:
-- [Luria Broth]()
+- [Luria Broth](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Solutions/Luria_Broth.md)
 
 ----------------------------------------------
 
 
 
 ### Other:
-- [Braithwaite Restriction Enzymes]()
+- [Braithwaite Restriction Enzymes](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Other/Restriction_Enzymes_Braithwaite.md)
 
 ----------------------------------------------
