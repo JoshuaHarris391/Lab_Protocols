@@ -45,7 +45,7 @@ a.	Collect the elute in a 10 ml endotoxin-free tube. Use of polycarbonate centri
 
   ![](cache/MIDI_1.png?raw=true)
 
-1.	Centrifuge immediately at ≥15,000 x g for 30 min at 4 C. Carefully decant the supernatant.  
+16.	Centrifuge immediately at ≥15,000 x g for 30 min at 4 C. Carefully decant the supernatant.  
 
 1.	Wash each DNA pellet with 1ml of endotoxin-free room-temperature 70% ethanol (do not need to resuspend) and centrifuge at ≥15,000 x g for 10 min.  
 
