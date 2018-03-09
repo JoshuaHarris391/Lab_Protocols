@@ -45,17 +45,17 @@ a.	Collect the elute in a 10 ml endotoxin-free tube. Use of polycarbonate centri
 
   ![](cache/MIDI_1.png?raw=true)
 
-17.	Centrifuge immediately at ≥15,000 x g for 30 min at 4 C. Carefully decant the supernatant.  
+17.	Centrifuge immediately at ≥15,000 x g for 30 min at 4 C.  
 
-1.	Wash each DNA pellet with 1ml of endotoxin-free room-temperature 70% ethanol (do not need to resuspend) and centrifuge at ≥15,000 x g for 10 min.  
+1. Using a transfer pipette, combine all pellets together, then re-spin at ≥15,000 x g for 10min.
+
+   * Make sure tubes are balanced in the centrifuge
+
+1.	Wash DNA pellet with 1ml of endotoxin-free room-temperature 70% ethanol (do not need to resuspend) and centrifuge at ≥15,000 x g for 10 min.  
 
 1.	Remove ethanol and repeat pellet washing with another 1mL 70% ethanol (Endotoxin Free).
 
-1.	Centrifuge at ≥15,000 x g for 5 min. Carefully decant the supernatant whilst still leaving a little bit of ethanol
-
-1.	Using a transfer pipette, detach DNA pellets into the ethanol solution, and combine all the pellets into a single 1.7mL Eppendorf tube.
-
-1.	Centrifuge at ≥15,000 x g for 5 min. Carefully decant the supernatant.
+1.	Centrifuge at ≥15,000 x g for 5 min. Carefully decant the supernatant as much as you can.
 
 1.	Air dry pellet, it will go from white to transparent in colour
 
