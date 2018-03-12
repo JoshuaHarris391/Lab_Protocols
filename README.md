@@ -16,6 +16,7 @@
 ### DNA:
 - [Midi Prep (Endotoxin-Free)](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/DNA/Endo_Free_MIDI_Prep.md)
 
+- [Restriction Enzyme Digestion Guidelines](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/DNA/RE_Guidelines.md)
 ----------------------------------------------
 
 
