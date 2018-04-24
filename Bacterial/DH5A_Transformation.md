@@ -63,3 +63,9 @@ the tube gently. Do not mix cells by pipetting.
 - DH5α™ cells do not require IPTG to induce expression from the lac
 promoter. To select transformants using blue/white screening, make
 sure that selective plates contain 50 µg/ml X-gal.
+
+________________________
+
+## Calculating Transformation Efficiency
+
+![](cache/CFU_Calc.png?raw=true)
