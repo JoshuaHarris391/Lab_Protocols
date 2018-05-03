@@ -14,12 +14,12 @@
 1. Immediately after autoclaving, cool the agar to 50dC in the water bath.
 
 1. Add **antibiotic**
-  - 500uL (1000X Kanamycin)
+    - 500uL (1000X Kanamycin)
 
 1. Pour **30mL** of molten agar into each plate
-  - Place lid on plates immediately after pouring so that fungal spore don't seed the agar.
+    - Place lid on plates immediately after pouring so that fungal spore don't seed the agar.
 
 1. Once all the plates are poured, transfer them to the fume hood for about 1hr until they set.
-  - Rest the bottom plate upside down on the side of the top plate.
+    - Rest the bottom plate upside down on the side of the top plate.
 
 1. Seal plates with Parafilm and store at 4dC
