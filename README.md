@@ -42,7 +42,7 @@
 ### Solutions:
 - [Luria Broth](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Solutions/Luria_Broth.md)
 
-- [Agar_Plates](Solutions/Agar_Plates.md)
+- [Agar Plates](Solutions/Agar_Plates.md)
 ----------------------------------------------
 
 
