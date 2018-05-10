@@ -55,7 +55,7 @@
 
 1. Load 10uL of undigested reaction into another well.
 
-1. Electrophorese at ~100cV for 30-60min
+1. Electrophorese at ~80cV for 30-60min
    - Run till Bromophenol blue dye front is 2/3 to ¾ down the length of the gel
 
 1. Stop electrophoresis, and image using the gel doc.
