@@ -12,7 +12,7 @@ each transformation into a 1.5 ml microcentrifuge tube.
 3. Refreeze any unused cells in the dry ice/ethanol bath for 5 minutes
 **before** returning to the -80°C freezer. Do not use liquid nitrogen.
 
-4. Add 1 to 5 µl (1-10 ng) of DNA to the cells and mix gently. Do not
+4. Add 5ng (no more than 5uL) of DNA to the cells and mix gently. Do not
 mix by pipetting up and down. For the pUC19 control, add 2.5 µl
 (250 pg) of DNA to the cells and mix gently.
 
