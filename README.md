@@ -45,6 +45,8 @@
 - [Luria Broth](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/Solutions/Luria_Broth.md)
 
 - [Agar Plates](Solutions/Agar_Plates.md)
+
+- [TAE Buffer 50X](Solutions/TAE_Buffer_50X.md)
 ----------------------------------------------
 
 
