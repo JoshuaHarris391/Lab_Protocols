@@ -5,6 +5,9 @@
 
 - [DH5-A Competent Bacteria Transformation](Bacterial/DH5A_Transformation.md)
 
+
+- [Bacterial Glycerol Stock](Bacterial/Glycerol_Stock.md)
+
 ----------------------------------------------
 
 
