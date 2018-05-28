@@ -51,7 +51,7 @@
 1. Load 5uL of [1KB plus DNA ladder](https://www.thermofisher.com/order/catalog/product/10787018)
    - [Ladder diagram](https://assets.thermofisher.com/TFS-Assets/BID/figures/10787018_10787026_Data.jpg-650.jpg)
 
-1. Load 10uL of the reaction mix (including stop buffer / DNA loading buffer) into one well.
+1. Load 10uL (around 50-100ng) of the reaction mix (including stop buffer / DNA loading buffer) into one well.
 
 1. Load 10uL of undigested reaction into another well.
 
