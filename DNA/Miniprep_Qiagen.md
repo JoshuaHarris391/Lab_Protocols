@@ -5,6 +5,7 @@
 [Manufacturers Protocol](https://www.qiagen.com/us/resources/download.aspx?id=331740ca-077f-4ddd-9e5a-2083f98eebd5&lang=en)
 
 
+1. Grow a 5mL culture of bacteria for 16-24hrs at 37dC 200rpm
 
 1. Pellet 1ml of bacterial overnight culture by centrifugation at 6800xg for 3 min at room temperature (15–25°C).
 
