@@ -1,6 +1,6 @@
 # MACS Buffer
 - Used to maintain cells for flow cytometry
-- Recipie makes at 200mL solution
+- Recipe makes at 200mL solution
 - Must sterile filter (0.22um) MACS buffer after mixing ingredients
 
 ------------------------------------
