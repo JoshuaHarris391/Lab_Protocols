@@ -50,6 +50,8 @@
 - [Agar Plates](Solutions/Agar_Plates.md)
 
 - [TAE Buffer 50X](Solutions/TAE_Buffer_50X.md)
+
+- [MACS Buffer](Solutions/MACS_Buffer.md)
 ----------------------------------------------
 
 
