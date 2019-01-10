@@ -29,7 +29,7 @@
 
 
 ### RNA:
-
+- [TRIzol Lysate Collection](https://github.com/JoshuaHarris391/Lab_Protocols/blob/master/RNA/TRIzol_Harvest_RNA.md)
 
 ----------------------------------------------
 
