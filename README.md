@@ -40,6 +40,7 @@
 
 - [RIPA Lysate Collection](Protein/RIPA_Lysate_Collection.md)
 
+- [NuPAGE](Protein/NuPAGE.md)
 ----------------------------------------------
 
 
