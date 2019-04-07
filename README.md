@@ -8,6 +8,8 @@
 
 - [Bacterial Glycerol Stock](Bacterial/Glycerol_Stock.md)
 
+- [Preparing Competent Bacteria](Bacterial/Competent_Bacteria_Prep.md)
+
 ----------------------------------------------
 
 
