@@ -1,4 +1,7 @@
 # Making Calcium Competent Cells
+
+*Method adapted from* [*here*](https://www.dropbox.com/s/qhlpymmuksr1onk/calcium_competent_E.coli.pdf?dl=0) *, new method scales volumes down by 0.3, and to ensure an even number of tubes for centrifugation.*
+
 ## Day 1
 1. Streak out frozen glycerol stock of bacterial cells (Top10, DH5α, etc.) onto an LB
 plate.
