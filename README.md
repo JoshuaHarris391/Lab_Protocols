@@ -8,7 +8,9 @@
 
 - [Bacterial Glycerol Stock](Bacterial/Glycerol_Stock.md)
 
-- [Preparing Competent Bacteria (Inoue Buffer)](Bacterial/Competent_Bacteria_Prep.md)
+- [Preparing Competent Bacteria (Inoue Buffer)](Bacterial/Competent_Bacteria_Prep_IB.md)
+
+- [Preparing Competent Bacteria (MgCl2 and CaCl2 method)](Bacterial/Competent_Bacteria_Prep_MgCa.md)
 
 ----------------------------------------------
 
