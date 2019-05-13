@@ -11,6 +11,8 @@
 
 - [Preparing Competent Bacteria (MgCl2 and CaCl2 method)](Bacterial/Competent_Bacteria_Prep_MgCa.md)
 
+- [Preparing Competent Bacteria (CaCl2 Tim Morgan method)](Bacterial/Competent_Bacteria_Prep_Ca_TM.md)
+
 ----------------------------------------------
 
 
