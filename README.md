@@ -62,6 +62,13 @@
 
 
 
+### Staining:
+- [PFA Cell Fixing](Staining/PFA_Fix.md)
+
+- [Chamber Slide DAPI/Phalloidin Stain](Staining/ICC_DAPI_Phalloidin.md)
+
+
+
 ### Other:
 - [Braithwaite Restriction Enzymes](Other/Restriction_Enzymes_Braithwaite.md)
 
