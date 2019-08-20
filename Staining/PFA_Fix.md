@@ -9,10 +9,10 @@ PFA is toxic. Do not breathe powder. Discard into a dedicated waste container. M
 1. Thaw 4% PFA (you will need 1ml total per chamber slide).
 1. Aspirate cell culture media.
 1. Using a p1000 tip, carefully & slowly add 250uL of PBS down edge of chamber to wash cell sheet.
-  - Wait 10 sec
-  - Aspirate PBS
-  - Repeat PBS wash
+   - Wait 10 sec
+   - Aspirate PBS
+   - Repeat PBS wash
 1. Using a p1000 top, carefully add 4% PFA to cells.
-  - Replace chamber lids.
-  - Incubate 15 min room temp with slow rocking (on a rocking platform, not an orbital shaker).
+   - Replace chamber lids.
+   - Incubate 15 min room temp with slow rocking (on a rocking platform, not an orbital shaker).
 1. Pipette PFA into PFA waste bottle.  Wash slide twice with 1ml PBS as in step 3.
