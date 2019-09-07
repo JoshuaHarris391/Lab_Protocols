@@ -19,6 +19,10 @@
 ### Cell Culture:
 - [Heat inactivate FBS](Cell_Culture/Heat_Inactivate_FBS.md)
 
+- [Passaging cells from a 96 well plate to a 48 well plate](Cell_Culture/Passaging_From_96well_to_48well.md)
+
+
+
 ----------------------------------------------
 
 
